@@ -10,28 +10,81 @@ struct Unit {
     int points;
 };
 
+struct Detachment {
+    string faction;
+    string name;
+};
+
+struct Enhancement {
+    string faction;
+    string detachment;
+    string name;
+    int points;
+};
+
 int main() {
     vector<Unit> army = {
-        {"Dark Angels", "Asmodai", 1, 70},
-        {"Dark Angels", "Deathwing Knights", 5, 250},
-        {"Ultramarines", "Marneus Calgar", 1, 185},
-        {"Black Templars", "High Marshal Helbrecht", 1, 120},
-        {"Adeptus Mechanicus", "Skitarii Rangers", 10, 90},
-        {"Adeptus Sororitas", "Battle Sisters Squad", 10, 100}
+        {"Adeptus Sororitas", "Aestred Thurga and Agathae Dolan", 2, 70}
+        {"Adeptus Sororitas", "Acro-flagellants", 3, 45}
+        {"Adeptus Sororitas", "Acro-flagellants", 10, 140}
+        {"Adeptus Sororitas", "Battle Sisters Squad", 10, 105}
+        {"Adeptus Sororitas", "Canoness", 1, 60}
+        {"Adeptus Sororitas", "Canoness with Jump pack", 1, 75}
+        {"Adeptus Sororitas", "Castigator", 1, 160}
+        {"Adeptus Sororitas", "Celestian Insidants", 10, 120}
+        {"Adeptus Sororitas", "Celestian Sacresants", 5, 70}
+        {"Adeptus Sororitas", "Celestian Sacresants", 10, 140}
+        {"Adeptus Sororitas", "Daemonfuge", 2, 85}
+        {"Adeptus Sororitas", "Dialogus", 1, 40}
+        {"Adeptus Sororitas", "Dogmata", 1, 45}
+        {"Adeptus Sororitas", "Dominion Squad", 10, 120}
+        {"Adeptus Sororitas", "Exsorcist", 1, 210}
+        {"Adeptus Sororitas", "Hospitaller", 1, 60}
+        {"Adeptus Sororitas", "Imagifier", 1, 65}
+        {"Adeptus Sororitas", "Immolator", 1, 115}
+        {"Adeptus Sororitas", "Junith Eruita", 1, 80}
+        {"Adeptus Sororitas", "Ministorum Priest," 1, 50}
+        {"Adeptus Sororitas", "Mortifiers", 1, 70}
+        {"Adeptus Sororitas", "Mortifiers", 2, 140}
+        {"Adeptus Sororitas", "Morven Vahl", 1, 185}
+        {"Adeptus Sororitas", "Palatine", 1, 50}
+        {"Adeptus Sororitas", "Paragon Warsuits", 3, 210}
+        {"Adeptus Sororitas", "Penitent Engines", 1, 75}
+        {"Adeptus Sororitas", "Penitent Engines", 2, 150}
+        {"Adeptus Sororitas", "Repentia Squad", 5, 75}
+        {"Adeptus Sororitas", "Repentia Squad", 10, 160}
+        {"Adeptus Sororitas", "Retributor Squad", 5, 120}
+        {"Adeptus Sororitas", "Sain Celestine", 3, 150}
+        {"Adeptus Sororitas", "Sanctifiers", 9, 110}
+        {"Adeptus Sororitas", "Seraphim Squad", 5, 80}
+        {"Adeptus Sororitas", "Seraphim Squad", 10, 160}
+        {"Adeptus Sororitas", "Sisters Novitiate Squad", 10, 100}
+        {"Adeptus Sororitas", "Sororitas Rhino", 1, 75}
+        {"Adeptus Sororitas", "Triumph of Saint Katherine", 1, 235}
+        {"Adeptus Sororitas", "Zeraphym Squad", 5, 80}
+        {"Adeptus Sororitas", "Zeraphym Squad", 10, 160}
+
+
     };
 
     int totalModels = 0;
     int totalPoints = 0;
 
-    for (const Unit& u : army) {
-        cout << "Faction: " << u.faction << endl;
-        cout << "Unit: " << u.name << endl;
-        cout << "Models: " << u.models << endl;
-        cout << "Points: " << u.points << endl;
-        cout << "----------------------\n";
+    cout << "Faction: " << chosenDetachment.faction << endl;
+    cout << "Detachment: " << chosenDetachment.name << endl;
+    cout << "\nUnits:\n";
 
+    for (const Unit& u : armyUnits) {
+        cout << "- " << u.name << " | Models: " << u.models
+             << " | Points: " << u.points << endl;
         totalModels += u.models;
         totalPoints += u.points;
+    }
+
+    cout << "\nEnhancements:\n";
+    for (const Enhancement& e : armyEnhancements) {
+        cout << "- " << e.name << " | Points: " << e.points << endl;
+        totalPoints += e.points;
     }
 
     cout << "\nTotal Models: " << totalModels << endl;
