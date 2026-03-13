@@ -1,1 +1,41 @@
-#ifdefine factions
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+struct Unit {
+    string faction;
+    string name;
+    int models;
+    int points;
+};
+
+int main() {
+    vector<Unit> army = {
+        {"Dark Angels", "Asmodai", 1, 70},
+        {"Dark Angels", "Deathwing Knights", 5, 250},
+        {"Ultramarines", "Marneus Calgar", 1, 185},
+        {"Black Templars", "High Marshal Helbrecht", 1, 120},
+        {"Adeptus Mechanicus", "Skitarii Rangers", 10, 90},
+        {"Adeptus Sororitas", "Battle Sisters Squad", 10, 100}
+    };
+
+    int totalModels = 0;
+    int totalPoints = 0;
+
+    for (const Unit& u : army) {
+        cout << "Faction: " << u.faction << endl;
+        cout << "Unit: " << u.name << endl;
+        cout << "Models: " << u.models << endl;
+        cout << "Points: " << u.points << endl;
+        cout << "----------------------\n";
+
+        totalModels += u.models;
+        totalPoints += u.points;
+    }
+
+    cout << "\nTotal Models: " << totalModels << endl;
+    cout << "Total Points: " << totalPoints << endl;
+
+    return 0;
+}
