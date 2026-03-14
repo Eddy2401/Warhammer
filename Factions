@@ -63,8 +63,123 @@ int main() {
         {"Adeptus Sororitas", "Triumph of Saint Katherine", 1, 235}
         {"Adeptus Sororitas", "Zeraphym Squad", 5, 80}
         {"Adeptus Sororitas", "Zeraphym Squad", 10, 160}
+        {"Adeptus Custodes", "Aleya", 1, 65}
+        {"Adeptus Custodes", "Allarus Custodians", 2, 110}
+        {"Adeptus Custodes", "Allarus Custodians", 3, 165}
+        {"Adeptus Custodes", "Allarus Custodians", 5, 275}
+        {"Adeptus Custodes", "Allarus Custodians", 6, 330}
+        {"Adeptus Custodes", "Anathema Psykana Rhino", 1, 75}
+        {"Adeptus Custodes", "Blade Champion", 1, 120}
+        {"Adeptus Custodes", "Custodian Guard", 4, 160}
+        {"Adeptus Custodes", "Custodian Guard", 6, 200}
+        {"Adeptus Custodes", "Custodian Wardens", 4, 210}
+        {"Adeptus Custodes", "Custodian Wardens", 5, 260}
+        {"Adeptus Custodes", "Knight-Centura", 1, 55}
+        {"Adeptus Custodes", "Prosecutors", 4, 40}
+        {"Adeptus Custodes", "Prosecutors", 5, 50}
+        {"Adeptus Custodes", "Prosecutors", 9, 75}
+        {"Adeptus Custodes", "Prosecutors", 10, 85}
+        {"Adeptus Custodes", "Shield-Captain", 1, 120}
+        {"Adeptus Custodes", "Shield-Captain in Allarus Terminator Armor", 1, 130}
+        {"Adeptus Custodes", "Shield-Captain on Dawneagle Jetbike", 1, 150}
+        {"Adeptus Custodes", "Trajann Valoris", 1, 140}
+        {"Adeptus Custodes", "Valerian", 1, 140}
+        {"Adeptus Custodes", "Venerable Contemptor Dreadnought", 1, 170}
+        {"Adeptus Custodes", "Venerable Land Raider", 1, 220}
+        {"Adeptus Custodes", "Vertus Praetors", 2, 150}
+        {"Adeptus Custodes", "Vertus Praetors", 3, 225}
+        {"Adeptus Custodes", "Vigilators", 4, 45}
+        {"Adeptus Custodes", "Vigilators", 5, 55}
+        {"Adeptus Custodes", "Vigilators", 9, 90}
+        {"Adeptus Custodes", "Vigilators", 10, 100}
+        {"Adeptus Custodes", "Witchseekers", 4, 45}
+        {"Adeptus Custodes", "Witchseekers", 5, 55}
+        {"Adeptus Custodes", "Witchseekers", 9, 90}
+        {"Adeptus Custodes", "Witchseekers", 10, 100}
+        {"Adeptus Custodes", "Agamatus Custodians", 3, 225}
+        {"Adeptus Custodes", "Agamatus Custodians", 6, 450}
+        {"Adeptus Custodes", "Aquilon Custodians", 3, 195}
+        {"Adeptus Custodes", "Aquilon Custodians", 6, 390}
+        {"Adeptus Custodes", "Ares Gunship", 1, 580}
+        {"Adeptus Custodes", "Caladius Grav-Tank", 1, 215}
+        {"Adeptus Custodes", "Contemptor-Achilus Dreadnought", 1, 155}
+        {"Adeptus Custodes", "Contemptor-Galatus Dreadnought", 1, 165}
+        {"Adeptus Custodes", "Coronus Grav-carrier", 1, 200}
+        {"Adeptus Custodes", "Custodian Guard with Adrasite and Pyrithite Spears", 5, 250}
+        {"Adeptus Custodes", "Orion Assault Dropship", 1, 690}
+        {"Adeptus Custodes", "Pallas Grav-attack", 1, 105}
+        {"Adeptus Custodes", "Sagittarum Custodians", 5, 225}
+        {"Adeptus Custodes", "Telemon Heavy Dreadnought", 1, 225}
+        {"Adeptus Custodes", "Venatari Custodians", 3, 165}
+        {"Adeptus Custodes", "Venatari Custodians", 6, 330}
+        {"Adeptus Mechanicus", "Archaeopter Fusilave", 1, 160}
+        {"Adeptus Mechanicus", "Archaeopter Stratoraptor", 1, 185}
+        {"Adeptus Mechanicus", "Archaeopter Transvector", 1, 150}
+        {"Adeptus Mechanicus", "Belisarius Cawl", 1, 210}
+        {"Adeptus Mechanicus", "Corpuscarii Electro-Priests", 5, 65}
+        {"Adeptus Mechanicus", "Corpuscarii Electro-Priests", 10, 130}
+        {"Adeptus Mechanicus", "Cybernetica Datasmith", 1, 35}
+        {"Adeptus Mechanicus", "Fulgurite Electro-Priests", 5, 70}
+        {"Adeptus Mechanicus", "Fulgurite Electro-Priests", 10, 140}
+        {"Adeptus Mechanicus", "Ironstrider Ballistarii", 1, 85}
+        {"Adeptus Mechanicus", "Ironstrider Ballistarii", 2, 170}
+        {"Adeptus Mechanicus", "Ironstrider Ballistarii", 3, 255}
+        {"Adeptus Mechanicus", "Kastelan Robots", 2, 180}
+        {"Adeptus Mechanicus", "Kastelan Robots", 4, 360}
+        {"Adeptus Mechanicus", "Kataphron Breachers", 3, 160}
+        {"Adeptus Mechanicus", "Kataphron Breachers", 6, 320}
+        {"Adeptus Mechanicus", "Kataphron Destroyers", 3, 105}
+        {"Adeptus Mechanicus", "Kataphron Destroyers", 6, 210}
+        {"Adeptus Mechanicus", "Onager Dunecrawler", 1, 155}
+        {"Adeptus Mechanicus", "Pteraxii Skystalkers", 5, 75}
+        {"Adeptus Mechanicus", "Pteraxii Skystalkers", 10, 150}
+        {"Adeptus Mechanicus", "Pteraxii Sterylizors", 5, 80}
+        {"Adeptus Mechanicus", "Pteraxii Sterylizors", 10, 160}
+        {"Adeptus Mechanicus", "Serberys Raiders", 3, 60}
+        {"Adeptus Mechanicus", "Serberys Raiders", 6, 120}
+        {"Adeptus Mechanicus", "Serberys Sulphurhounds", 3, 55}
+        {"Adeptus Mechanicus", "Serberys Sulphurhounds", 6, 110}
+        {"Adeptus Mechanicus", "Servitor Battleclade", 9, 60}
+        {"Adeptus Mechanicus", "Sicarian Infliltrators", 5, 75}
+        {"Adeptus Mechanicus", "Sicarian Infliltrators", 10, 155}
+        {"Adeptus Mechanicus", "Sicarian Ruststakers", 5, 80}
+        {"Adeptus Mechanicus", "Sicarian Ruststakers", 5, 165}
+        {"Adeptus Mechanicus", "Skitarii Marshal", 1, 35}
+        {"Adeptus Mechanicus", "Skitarii Rangers", 10, 85}
+        {"Adeptus Mechanicus", "Skitarii Vanguard", 10, 95}
+        {"Adeptus Mechanicus", "Skorpius Disintegrator", 1, 165}
+        {"Adeptus Mechanicus", "Skorpius Dunerider", 1, 85}
+        {"Adeptus Mechanicus", "Sydnonian Dragoons with Radium Jezzails", 1, 55}
+        {"Adeptus Mechanicus", "Sydnonian Dragoons with Radium Jezzails", 2, 100}
+        {"Adeptus Mechanicus", "Sydnonian Dragoons with Radium Jezzails", 3, 150}
+        {"Adeptus Mechanicus", "Sydonian Skatros", 1, 50}
+        {"Adeptus Mechanicus", "Tech-Priest Dominus", 1, 65}
+        {"Adeptus Mechanicus", "Tech-Priest Enginseer", 1, 55}
+        {"Adeptus Mechanicus", "Tech-Priest Manipulus", 1, 60}
+        {"Adeptus Mechanicus", "Technoarcheologist", 1, 45}
+        {"Adeptus Titanicus", "Reaver Titan", 1, 220}
+        {"Adeptus Titanicus", "Warbringer Nemesis Titan", 1, 2600}
+        {"Adeptus Titanicus", "Warhound Titan", 1, 1100}
+        {"Adeptus Titanicus", "Warlord Titan", 1, 3500}
+        {"Adeptus Titanicus", "", , }
 
 
+
+
+
+
+
+    };
+
+     Detachment chosenDetachment = {
+        {"Adepta Sororitas", "Army of Faith"}
+        {""}
+    
+    };
+
+    vector<Enhancement> armyEnhancements = {
+        {"Adepta Sororitas", "Army of Faith", "Blade of Saint Ellynor", 15},
+        {"Adepta Sororitas", "Army of Faith", "Litanies of Faith", 10}
     };
 
     int totalModels = 0;
