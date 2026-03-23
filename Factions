@@ -161,7 +161,342 @@ int main() {
         {"Adeptus Titanicus", "Warbringer Nemesis Titan", 1, 2600}
         {"Adeptus Titanicus", "Warhound Titan", 1, 1100}
         {"Adeptus Titanicus", "Warlord Titan", 1, 3500}
-        {"Adeptus Titanicus", "", , }
+        {"Aeldari", "Asurmen", 1, 135}
+        {"Aeldari", "Autarch", 1, 85}
+        {"Aeldari", "Autarch Wayleaper", 1, 80}
+        {"Aeldari", "Avatar of Khaine", 1, 280}
+        {"Aeldari", "Baharroth", 1, 115}
+        {"Aeldari", "Corsair Skyreavers", 5, 65}
+        {"Aeldari", "Corsair Skyreavers", 10, 150}
+        {"Aeldari", "Corsair Voidreavers", 5, 65}
+        {"Aeldari", "Corsair Voidreavers", 10, 110}
+        {"Aeldari", "Corsair Voidscarred", 5, 80}
+        {"Aeldari", "Corsair Voidscarred", 10, 160}
+        {"Aeldari", "Crimspm Hunter", 1, 160}
+        {"Aeldari", "D-cannon Platform", 1, 125}
+        {"Aeldari", "Dark Reapers", 5, 90}
+        {"Aeldari", "Dark Reapers", 10, 195}
+        {"Aeldari", "Death Jester", 1, 90}
+        {"Aeldari", "Dire Avengers", 5, 75}
+        {"Aeldari", "Dire Avengers", 10, 150}
+        {"Aeldari", "Eldrad Uthran", 1, 120}
+        {"Aeldari", "Falcon", 1, 70}
+        {"Aeldari", "Farseer", 1, 70}
+        {"Aeldari", "Farseer Skyrunner", 1, 80}
+        {"Aeldari", "Fire Dragons", 5, 120}
+        {"Aeldari", "Fire Dragons", 10, 240}
+        {"Aeldari", "Fire Prism", 1, 150}
+        {"Aeldari", "Fuegan", 1, 120}
+        {"Aeldari", "Guardians Defenders", 11, 100}
+        {"Aeldari", "Hemlock Wraithfighter", 1, 155}
+        {"Aeldari", "Howling Banshees", 5, 95}
+        {"Aeldari", "Howling Banshees", 10, 190}
+        {"Aeldari", "Jain Zar", 1, 120}
+        {"Aeldari", "Kharseth", 1, 95}
+        {"Aeldari", "Lhykhis", 1, 135}
+        {"Aeldari", "Maugan Ra", 1, 100}
+        {"Aeldari", "Night Spinner", 1, 190}
+        {"Aeldari", "Prince Yriel", 1, 95}
+        {"Aeldari", "Rangers", 5, 55}
+        {"Aeldari", "Rangers", 10, 110}
+        {"Aeldari", "Shadow Weaver Platform", 1, 75}
+        {"Aeldari", "Shadowseer", 1, 60}
+        {"Aeldari", "Shining Spears", 3, 110}
+        {"Aeldari", "Shining Spears", 6, 220}
+        {"Aeldari", "Shroud Runners", 3, 80}
+        {"Aeldari", "Shroud Runners", 6, 160}
+        {"Aeldari", "Skyweavers", 2, 95}
+        {"Aeldari", "Skyweavers", 4, 190}
+        {"Aeldari", "Solitaire", 1, 115}
+        {"Aeldari", "Spiritseer", 1, 65}
+        {"Aeldari", "Starweaver", 1, 80}
+        {"Aeldari", "Starfang", 1, 75}
+        {"Aeldari", "Starfang", 2, 150}
+        {"Aeldari", "Storm Guardians", 11, 110}
+        {"Aeldari", "Striking Scorpions", 5, 85}
+        {"Aeldari", "Striking Scorpions", 10, 150}
+        {"Aeldari", "Swooping Hawks", 5, 95}
+        {"Aeldari", "Swooping Hawks", 10, 190}
+        {"Aeldari", "Troupe", 5, 85}
+        {"Aeldari", "Troupe", 6, 100}
+        {"Aeldari", "Troupe", 11, 190}
+        {"Aeldari", "Troupe", 12, 205}
+        {"Aeldari", "Troupe Master", 1, 75}
+        {"Aeldari", "Vibro Cannon Platform", 1, 60}
+        {"Aeldari", "Voidweaver", 1, 125}
+        {"Aeldari", "Vyper", 1, 75}
+        {"Aeldari", "Vyper", 2, 150}
+        {"Aeldari", "War Walker", 1, 85}
+        {"Aeldari", "War Walker", 2, 85}
+        {"Aeldari", "Warlock Conclave", 2, 55}
+        {"Aeldari", "Warlock Conclave", 4, 130}
+        {"Aeldari", "Warlock Skyrunners", 1, 45}
+        {"Aeldari", "Warlock Skyrunners", 2, 90}
+        {"Aeldari", "Warp Spiders", 5, 105}
+        {"Aeldari", "Warp Spiders", 10, 190}
+        {"Aeldari", "Wave Serpernt", 1, 125}
+        {"Aeldari", "Windriders", 3, 80}
+        {"Aeldari", "Windriders", 6, 160}
+        {"Aeldari", "Wraithblades", 5, 150}
+        {"Aeldari", "Wraithguard", 5, 160}
+        {"Aeldari", "Wraithknight", 1, 435}
+        {"Aeldari", "Wraithknight with Ghostglaive", 1, 420}
+        {"Aeldari", "Wraithlord", 1, 130}
+        {"Aeldari YNNARI", "The Visarch", 1, 90}
+        {"Aeldari YNNARI", "The Yncarne", 1, 260}
+        {"Aeldari YNNARI", "Ynnari Archon", 1, 85}
+        {"Aeldari YNNARI", "Ynnari Incubi", 5, 85}
+        {"Aeldari YNNARI", "Ynnari Incubi", 10, 170}
+        {"Aeldari YNNARI", "Ynnari Kabalite Warriors", 10, 110}
+        {"Aeldari YNNARI", "Ynnari Reavers", 3, 65}
+        {"Aehldari YNNARI", "Ynnari Reavers", 3, 120}
+        {"Aeldari YNNARI", "Ynnari Succubus", 1, 45}
+        {"Aeldari YNNARI", "Ynnari Venom", 1, 70}
+        {"Aeldari YNNARI", "Ynnari Wyches", 10, 90}
+        {"Aeldari YNNARI", "Yvraine", 1, 100}
+        {"Aeldari Titans", "Phantom Titan", 1, 2100}
+        {"Aeldari Titans", "Revenant Titan", 1, 1100}
+        {"Astra Militarum ", "Aegis Defence Line", 1, 145}
+        {"Astra Militarum ", "Armored Sentinels", 1, 65}
+        {"Astra Militarum ", "Armored Sentinels", 2, 130}
+        {"Astra Militarum ", "Artillery Team", 1, 95}
+        {"Astra Militarum ", "Attilan Rough Riders", 5, 60}
+        {"Astra Militarum ", "Attilan Rough Riders", 10, 120}
+        {"Astra Militarum ", "Baneblade", 1, 450}
+        {"Astra Militarum ", "Banehammer", 1, 420}
+        {"Astra Militarum ", "Basilisk", 1, 140}
+        {"Astra Militarum ", "Bullgryn Squad", 3, 100}
+        {"Astra Militarum ", "Bullgryn Squad", 6, 200}
+        {"Astra Militarum ", "Cadian Castellan", 1, 55}
+        {"Astra Militarum ", "Cadian Command Squad", 5, 65}
+        {"Astra Militarum ", "Cadian Heavy Weapons Squad", 3, 65}
+        {"Astra Militarum ", "Cadian Shock Troops", 10, 65}
+        {"Astra Militarum ", "Cadian Shock Troops", 20, 120}
+        {"Astra Militarum ", "Catachan Command Squad", 5, 65}
+        {"Astra Militarum ", "Catachan Heavy Weapons Squad", 3, 65}
+        {"Astra Militarum ", "Catachan Jungle Fighters", 10, 65}
+        {"Astra Militarum ", "Catachan Jungle Fighters", 20, 120}
+        {"Astra Militarum ", "Chimera", 1, 85}
+        {"Astra Militarum ", "Commissar", 1, 30}
+        {"Astra Militarum ", "Death Korps of Krieg", 10, 65}
+        {"Astra Militarum ", "Death Korps of Krieg", 20, 145}
+        {"Astra Militarum ", "Death Riders", 5, 60}
+        {"Astra Militarum ", "Death Riders", 10, 120}
+        {"Astra Militarum ", "Deathstrike", 1, 145}
+        {"Astra Militarum ", "Doomhammer", 1, 415}
+        {"Astra Militarum ", "Field Ordnance Battery", 2, 110}
+        {"Astra Militarum ", "Gaunt's Ghosts", 6, 100}
+        {"Astra Militarum ", "Hellhammer", 1, 420}
+        {"Astra Militarum ", "Hellhound", 1, 125}
+        {"Astra Militarum ", "Hydra", 1, 95}
+        {"Astra Militarum ", "Kasrkin", 10, 110}
+        {"Astra Militarum ", "Krieg Combat Engineers", 5, 60}
+        {"Astra Militarum ", "Krieg Combat Engineers", 5, 95}
+        {"Astra Militarum ", "Krieg Command Squad", 6, 65}
+        {"Astra Militarum ", "Krieg Heavy Weapons Squad", 4, 75}
+        {"Astra Militarum ", "Leman Russ Battle Tank", 1, 185}
+        {"Astra Militarum ", "Leman Russ Commander", 1, 235}
+        {"Astra Militarum ", "Leman Russ Demolisher", 1, 190}
+        {"Astra Militarum ", "Leman Russ Eradicator", 1, 170}
+        {"Astra Militarum ", "Leman Russ Exacutioner", 1, 170}
+        {"Astra Militarum ", "Leman Russ Exterminator", 1, 180}
+        {"Astra Militarum ", "Leman Russ Punisher", 1, 150}
+        {"Astra Militarum ", "Leman Russ Vanquisher", 1, 145}
+        {"Astra Militarum ", "Lord MArshal Dreir", 1, 100}
+        {"Astra Militarum ", "Lord Solar Leontus", 1, 130}
+        {"Astra Militarum ", "Manticore", 1, 165}
+        {"Astra Militarum ", "Militarum Tempestus Comman Squad", 5, 85}
+        {"Astra Militarum ", "Ministorum Priest", 1, 35}
+        {"Astra Militarum ", "Nork Deddog", 1, 60}
+        {"Astra Militarum ", "Ogryn Bodyguard", 1, 40}
+        {"Astra Militarum ", "Ogryn Squad", 3, 60}
+        {"Astra Militarum ", "Ogryn Squad", 6, 130}
+        {"Astra Militarum ", "Primaris Psuker", 1, 60}
+        {"Astra Militarum ", "Ratlings", 5, 60}
+        {"Astra Militarum ", "Ratlings", 10, 100}
+        {"Astra Militarum ", "Rogal Dorn Battle Tank", 1, 260}
+        {"Astra Militarum ", "Rogal Dorn Commander", 1, 290}
+        {"Astra Militarum ", "Scout Sentinels", 1, 55}
+        {"Astra Militarum ", "Scout Sentinels", 1, 110}
+        {"Astra Militarum ", "Shadowsword", 1, 410}
+        {"Astra Militarum ", "Cly Marbo", 1, 55}
+        {"Astra Militarum ", "Stormlord", 1, 430}
+        {"Astra Militarum ", "Stromsword", 1, 465}
+        {"Astra Militarum ", "Taurox", 1, 75}
+        {"Astra Militarum ", "Taurox Prime", 1, 90}
+        {"Astra Militarum ", "Tech-Priest Enginseer", 1, 45}
+        {"Astra Militarum ", "Tempestus Aquilons", 10, 100}
+        {"Astra Militarum ", "Tempestus Scions", 5, 70}
+        {"Astra Militarum ", "Tempestus Scions", 10, 140}
+        {"Astra Militarum ", "Ursula Creed", 1, 85}
+        {"Astra Militarum ", "Valkyrie", 1, 190}
+        {"Astra Militarum ", "Wyvern", 1, 110}
+        {"Astra Militarum ", "Avenger Strike Fighter", 1, 130}
+        {"Astra Militarum ", "CyClops Demolition Vehicle", 1, 25}
+        {"Black Templars ", "Castellan", 1, 70}
+        {"Black Templars ", "Chaplain Grimaldus", 4, 110}
+        {"Black Templars ", "Crusade Ancient", 1, 55}
+        {"Black Templars ", "Crusader Squad 1", 10, 150}
+        {"Black Templars ", "Crusader Squad 2", 20, 300}
+        {"Black Templars ", "Emperor's Champion", 1, 100}
+        {"Black Templars ", "Execrator", 1, 60}
+        {"Black Templars ", "Gladiator Lancer", 1, 160}
+        {"Black Templars ", "Gladiator Reaper", 1, 160}
+        {"Black Templars ", "Gladiator Valiant", 1, 150}
+        {"Black Templars ", "High Marshal Helbrecht", 1, 120}
+        {"Black Templars ", "Impulsor", 1, 85}
+        {"Black Templars ", "Land Raider Crusader", 1, 220}
+        {"Black Templars ", "Marshal", 1, 80}
+        {"Black Templars ", "Sternguard Veteran Squad", 5, 85}
+        {"Black Templars ", "Sternguard Veteran Squad", 10, 170}
+        {"Black Templars ", "Sword Brethren", 4, 105}
+        {"Black Templars ", "Sword Brethren", 5, 130}
+        {"Black Templars ", "Sword Brethren", 9, 235}
+        {"Black Templars ", "Sword Brethren", 10, 260}
+        {"Black Templars ", "Repulsor Executioner", 1, 235}
+        {"Blood Angels ", "Astorath", 1, 85}
+        {"Blood Angels ", "Ball Predator", 1, 125}
+        {"Blood Angels ", "Blood Angels Captain", 1, 80}
+        {"Blood Angels ", "Chief Librarian Mephiston", 1, 120}
+        {"Blood Angels ", "Commander Dante", 1, 120}
+        {"Blood Angels ", "Death Company Captain", 1, 70}
+        {"Blood Angels ", "Death Company Captain with Jump Pack", 1, 75}
+        {"Blood Angels ", "Death Company Dreadnought", 1, 160}
+        {"Blood Angels ", "Death Company Marines", 5, 85}
+        {"Blood Angels ", "Death Company Marines", 10, 160}
+        {"Blood Angels ", "Death Company Marines with Bolt Rifles", 5, 85}
+        {"Blood Angels ", "Death Company Marines with Bolt Rifles", 10, 160}
+        {"Blood Angels ", "Death Company Marines with Jump Packs", 5, 120}
+        {"Blood Angels ", "Death Company Marines with Jump Packs", 10, 130}
+        {"Blood Angels ", "Lemartes", 1, 100}
+        {"Blood Angels ", "Sanguinary Guard", 3, 125}
+        {"Blood Angels ", "Sanguinary Guard", 6, 260}
+        {"Blood Angels ", "Sanguinary Priest", 1, 75}
+        {"Blood Angels ", "The Sanguinor", 1, 130}
+        {"Chaos Daemons ", "Beasts of Nurgle", 1, 65}
+        {"Chaos Daemons ", "Beasts of Nurgle", 2, 130}
+        {"Chaos Daemons ", "Be'lakor", 1, 375}
+        {"Chaos Daemons ", "Bloodletters", 10, 110}
+        {"Chaos Daemons ", "Bloodmaster", 1, 65}
+        {"Chaos Daemons ", "Bloodthrister", 1, 305}
+        {"Chaos Daemons ", "Blue Horrors", 10, 125}
+        {"Chaos Daemons ", "Burning Chariot", 1, 115}
+        {"Chaos Daemons ", "Changecaster", 1, 60}
+        {"Chaos Daemons ", "Contorted Epitome", 1, 100}
+        {"Chaos Daemons ", "Daemon Prince of Chaos", 1, 190}
+        {"Chaos Daemons ", "Daemon Prince of Chaos with Wings", 1, 180}
+        {"Chaos Daemons ", "Daemnettes", 10, 100}
+        {"Chaos Daemons ", "Epidemius", 1, 80}
+        {"Chaos Daemons ", "Exalted Flamer", 1, 65}
+        {"Chaos Daemons ", "Fateskimmer", 1, 95}
+        {"Chaos Daemons ", "Feculent Gnarlmaw", 1, 100}
+        {"Chaos Daemons ", "Fiends", 3, 95}
+        {"Chaos Daemons ", "Fiends", 6, 190}
+        {"Chaos Daemons ", "Flamers", 3, 65}
+        {"Chaos Daemons ", "Flamers", 6, 130}
+        {"Chaos Daemons ", "Fesh Hounds", 5, 75}
+        {"Chaos Daemons ", "Fesh Hounds", 10, 150}
+        {"Chaos Daemons ", "Fluxmaster", 1, 60}
+        {"Chaos Daemons ", "Great Unclean One", 1, 250}
+        {"Chaos Daemons ", "Hellflayers", 1, 80}
+        {"Chaos Daemons ", "Hellflayers", 2, 160}
+        {"Chaos Daemons ", "Horticulous Slimux", 1, 120}
+        {"Chaos Daemons ", "Infernal Enrapturess", 1, 60}
+        {"Chaos Daemons ", "Kairos Fateweaver", 1, 295}
+        {"Chaos Daemons ", "Karaanak", 1, 75}
+        {"Chaos Daemons ", "Keeper of Secrets", 1, 240}
+        {"Chaos Daemons ", "Lord of Change", 1, 285}
+        {"Chaos Daemons ", "Nurglings", 3, 40}
+        {"Chaos Daemons ", "Nurglings", 6, 70}
+        {"Chaos Daemons ", "Pink Horrors", 10, 140}
+        {"Chaos Daemons ", "Plague Drones", 3, 110}
+        {"Chaos Daemons ", "Plague Drones", 6, 220}
+        {"Chaos Daemons ", "Plaguebearers", 10, 110}
+        {"Chaos Daemons ", "PoxBringer", 1, 55}
+        {"Chaos Daemons ", "Rendmaster on Blood Throne", 1, 165}
+        {"Chaos Daemons ", "Rotigus", 1, 265}
+        {"Chaos Daemons ", "Screamers", 3, 80}
+        {"Chaos Daemons ", "Screamers", 6, 160}
+        {"Chaos Daemons ", "Seekers", 5, 80}
+        {"Chaos Daemons ", "Seekers", 10, 160}
+        {"Chaos Daemons ", "Shalaxi Helbane", 1, 340}
+        {"Chaos Daemons ", "Skarbrand", 1, 305}
+        {"Chaos Daemons ", "Skull Altar", 1, 105}
+        {"Chaos Daemons ", "Skull Cannon", 1, 95}
+        {"Chaos Daemons ", "Skullmaster", 1, 100}
+        {"Chaos Daemons ", "Skulltaker", 1, 85}
+        {"Chaos Daemons ", "Sloppity Bilepiper", 1, 55}
+        {"Chaos Daemons ", "Soul Grinder", 1, 180}
+        {"Chaos Daemons ", "Spoilpox Scrivener", 1, 60}
+        {"Chaos Daemons ", "Syll'esske", 1, 120}
+        {"Chaos Daemons ", "The Blue Scribes", 1, 75}
+        {"Chaos Daemons ", "The Changeling", 1, 90}
+        {"Chaos Daemons ", "The Masque of Slaanesh", 1, 95}
+        {"Chaos Daemons ", "TormentBringer", 1, 140}
+        {"Chaos Daemons ", "Tranceweaver", 1, 60}
+        {"Chaos Knights ", "Knight Abominat", 1, 355}
+        {"Chaos Knights ", "Knight Desecrator", 1, 355}
+        {"Chaos Knights ", "Knight Despoiler", 1, 390}
+        {"Chaos Knights ", "Knight Rampager", 1, 365}
+        {"Chaos Knights ", "Knight Ruinator", 1, 355}
+        {"Chaos Knights ", "Knight Tyrant", 1, 410}
+        {"Chaos Knights ", "War Dog Brigand", 1, 140}
+        {"Chaos Knights ", "War Dog executoner", 1, 130}
+        {"Chaos Knights ", "War Dog Huntsman", 1, 140}
+        {"Chaos Knights ", "War Dog Karnivore", 1, 150}
+        {"Chaos Knights ", "War Dog Stalker", 1, 140}
+        {"Chaos Knights ", "Chaos Acastus Knight Asterius", 1, 765}
+        {"Chaos Knights ", "Chaos Cerastus Knight Porphyrion", 1, 700}
+        {"Chaos Knights ", "Chaos Ceratus Knight Acheron", 1, 385}
+        {"Chaos Knights ", "Chaos Ceratus Knight Atrapos", 1, 395}
+        {"Chaos Knights ", "Chaos Ceratus Knight Castigator", 1, 385}
+        {"Chaos Knights ", "Chaos Ceratus Knight Lancer", 1, 385}
+        {"Chaos Knights ", "Chaos Questoris Knight Magaera", 1, 375}
+        {"Chaos Knights ", "Chaos Questoris Knight Styrix", 1, 375}
+        {"Chaos Knights ", "War Dog Moirax", 1, 150}
+        {"Chaos Space Marines ", "Abaddon the Despoiler", 1, 270}
+        {"Chaos Space Marines ", "Accursed Cultist", 8, 90}
+        {"Chaos Space Marines ", "Accursed Cultist", 16, 195}
+        {"Chaos Space Marines ", "Chaos Bikers", 3, 70}
+        {"Chaos Space Marines ", "Chaos Bikers", 6, 130}
+        {"Chaos Space Marines ", "Chaos Land Raider", 1, 220}
+        {"Chaos Space Marines ", "Chaos Lord", 1, 90}
+        {"Chaos Space Marines ", "Chaos Lord in Terminator Armor", 1, 85}
+        {"Chaos Space Marines ", "Chaos Lord with Jump Pack", 1, 80}
+        {"Chaos Space Marines ", "Chaos Predator Annihilator", 1, 135}
+        {"Chaos Space Marines ", "Chaos Predator Destructor", 1, 140}
+        {"Chaos Space Marines ", "Chaos Rhino", 1, 75}
+        {"Chaos Space Marines ", "Chaos Spawn", 2, 70}
+        {"Chaos Space Marines ", "Chaos Terminator Squad", 5, 180}
+        {"Chaos Space Marines ", "Chaos Terminator Squad", 10, 360}
+        {"Chaos Space Marines ", "Chaos Vindicator", 1, 185}
+        {"Chaos Space Marines ", "Chosen", 5, 125}
+        {"Chaos Space Marines ", "Chosen", 10, 250}
+        {"Chaos Space Marines ", "Cultist Firebrand", 1, 45}
+        {"Chaos Space Marines ", "Cultist Mob", 10, 50}
+        {"Chaos Space Marines ", "Cultist Mob", 20, 100}
+        {"Chaos Space Marines ", "Cypher", 1, 90}
+        {"Chaos Space Marines ", "Dark Apostle", 3, 65}
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        {"Chaos Space Marines ", "", , }
+        
+
+        
+
+
+        
+
+        
+
 
 
 
